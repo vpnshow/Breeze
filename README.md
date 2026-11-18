@@ -6,21 +6,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/breeze) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-微风网络（Breeze）提供**三网优化入口与 IPLC 专线**，支持**通用订阅**。月付套餐从 **¥27、200GB/月**起；清风年付为 **¥137/年、100GB/月**，折合约 **¥11.42/月**。另有 **270GB 与 570GB 不限时流量包**，适合按需使用；服务介绍主打晚高峰低延迟、4K / 8K 影音体验及流媒体与 AI 工具解锁。
-
 > [!NOTE]
 > **30 秒看懂微风网络(Breeze)**
 >
-> - **月付起步**：乘风 ¥27/月、200GB/月；另有 500GB/月与 1200GB/月档位。
-> - **最低年付**：清风 ¥137/年、100GB/月，折合约 ¥11.42/月，需一次支付全年费用。
-> - **不限时套餐**：信风 ¥200、270GB；长风 ¥370、570GB，均为一次性付费、固定总流量用完为止。
-> - **全场优惠**：`weifeng90` 享 7 折，新老用户均可用，支持所有套餐的新购、续费及升级。
-> - **线路与设备**：套餐标注全 IPLC 专线、不限速、不限制设备同时接入。
-> - **协议与客户端**：支持通用订阅，服务资料列有 Shadowsocks、VMess、Trojan，覆盖 Windows、macOS、iOS 与 Android。
-> - **支付方式**：支付宝、微信支付与 USDT。
+> [访问官网](https://eoht.net/serve/airport/breeze) · [查看套餐价格](https://eoht.net/serve/airport/breeze#breeze-vpn-plans) · [查看测速与解锁图](https://eoht.net/serve/airport/breeze#breeze-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> [查看套餐价格](https://eoht.net/serve/airport/breeze#breeze-vpn-plans) · [查看测速与解锁图](https://eoht.net/serve/airport/breeze#breeze-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：乘风 ¥27/月、200GB/月；清风年付 ¥137/年、100GB/月，需一次支付全年费用。
+> - **服务方式**：三网优化入口、IPLC 专线与通用订阅，套餐标注不限速、不限设备；另有 270GB、570GB 一次性不限时总流量包，用完为止。
+> - **全场优惠**：`weifeng90` 享 7 折，**新老用户均可用，支持所有套餐的新购、续费及升级**。
 >
+
+微风网络（Breeze）提供**三网优化入口与 IPLC 专线**，支持**通用订阅**。月付套餐从 **¥27、200GB/月**起；清风年付为 **¥137/年、100GB/月**，折合约 **¥11.42/月**。另有 **270GB 与 570GB 不限时流量包**，适合按需使用；服务介绍主打晚高峰低延迟、4K / 8K 影音体验及流媒体与 AI 工具解锁。
 
 <a id="breeze-official-website"></a>
 
